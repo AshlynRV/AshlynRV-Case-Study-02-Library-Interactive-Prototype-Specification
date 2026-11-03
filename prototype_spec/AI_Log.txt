@@ -1,0 +1,19 @@
+AI USE LOG
+Assignment: Case Study 2 - Interactive Prototype Specification (Library website)
+Tool: GitHub Copilot (AI assistant)
+
+HOW AI WAS USED
+1. Book names for the database
+   Asked for help building the list of sample books in app.js (titles, authors, available / checked out / waitlist status).
+   I chose which books to include.
+
+2. Rules list for borrowing
+   AI created a draft of the borrowing rules that I revised.
+
+3. Template and formatting of the PDF
+   AI created the template/layout that I built my pdf on.
+
+4. Refine and assist with front end code
+   Helped ensure clean UI, double checked compliance with WCAG.
+
+
